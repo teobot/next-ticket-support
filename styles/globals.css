@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html,
+body,
+#__next {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #E5E7E9;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.bolder {
+  font-weight: 900;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.font700 {
+  font-weight: 700;
+}
+
+.font600 {
+  font-weight: 600;
+}
+
+.bg-white {
+  background-color: #FFFFFF;
+}
